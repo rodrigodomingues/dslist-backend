@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 import br.com.hiperlogic.dslist.dto.GameMinDTO;
 import br.com.hiperlogic.dslist.services.GameService;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController

@@ -1,6 +1,5 @@
 package br.com.hiperlogic.dslist.entities;
 
-import java.util.Objects;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
